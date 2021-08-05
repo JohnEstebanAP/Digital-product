@@ -1,0 +1,42 @@
+@media (max-width: 600px){
+    body{
+        display: inherit;
+    }
+
+    .products{
+        display: inherit;
+        height: auto;
+    }
+
+    .product{
+        margin-top: auto;
+    }
+
+    .main_section{
+        padding: 4%;
+    }
+
+    .description{
+        display: inherit;
+        padding: 5%;
+    }
+
+    .description_content {
+        margin: 10px 5px;
+    }
+
+    .menciones{
+        display: inherit;
+        padding: 5%;  
+    }
+
+    #title_mentions{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .menciones_content{
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+}

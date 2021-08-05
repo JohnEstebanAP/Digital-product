@@ -1,0 +1,13 @@
+body{
+    color: var(--white-color);
+    background-color: var(--black-color);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;/*100vh nos sirve para indicarle que ocupe toda la pantalla*/
+}
+
+.content_paypal a{
+ color: var(--grenn-color);
+}
